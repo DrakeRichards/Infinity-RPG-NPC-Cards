@@ -9,6 +9,11 @@ Date last updated: December 11, 2018
 
 This is a CardMaker (https://github.com/nhmkdev/cardmaker) project. You will need at least version 1.0.0.1 to open it.
 
+You will also need the following fonts:
+
+* "PT Sans Narrow": https://fonts.google.com/specimen/PT+Sans+Narrow
+* "Orbitron": https://fonts.google.com/specimen/Orbitron
+
 ## Parts
 
 *	"**Infinity RPG NPC Cards.cmp**"- The project file itself.
